@@ -82,7 +82,7 @@
     "insar:reference_datetime": "2022-03-15T07:57:41Z",
     "insar:secondary_datetime": "2022-03-27T07:58:06Z",
     "insar:processsing_dem": "SRTM1",
-    "insar:geocoding_dem": "SRTM1",
+    "insar:geocoding_dem": "SRTM1"
   },
   "links": [
     {
